@@ -1,0 +1,33 @@
+.logo-custom{
+    width: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+.background-blog{
+    margin-top: 200px;
+    height: 100vh;
+    background:url(mountains.png), linear-gradient(rgba(255,255,255,1), rgba(255,255,255,0.097), url(switzerland-862870_1920.jpg));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Container holding the image and the text
+.container-custom {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } */
+
